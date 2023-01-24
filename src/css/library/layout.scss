@@ -1,0 +1,18 @@
+// flex
+
+.d-flex {
+  display: flex;
+  flex-direction: row;
+}
+
+.d-flex-column {
+  flex-direction: column;
+}
+
+.jc-space-between {
+  justify-content: space-between;
+}
+
+.ai-center {
+  align-items: center;
+}
